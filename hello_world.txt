@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 This is some text!
 More text!
+=======
+>>>>>>> parent of dba5701 (Edit README.md and hello_world.txt)
